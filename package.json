@@ -1,0 +1,14 @@
+{
+  "name": "Trillo",
+  "version": "1.0.0",
+  "description": "Trillo App",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Kehade",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.5.3"
+  }
+}
